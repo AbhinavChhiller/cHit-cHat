@@ -1,9 +1,9 @@
 
 # cHit-cHat
 
-# cHit-cHat is a Full Stack Chatting Web Application made using HTMl, CSS, and JavaScript.
+# cHit-cHat is a Full Stack Chatting Web Application made using HTML, CSS, and JavaScript.
 
-# Uses Socket.io for real time communication and stores user details inencrypted format in Mongo DB Database.
+# Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
 ## Tech Stack
 
 **Client:** React JS
